@@ -1,2 +1,2 @@
 # WSM-FFT
-WSM wave packet using FFT
+WSM wave packet using FFT and EFDM
